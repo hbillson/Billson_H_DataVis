@@ -1,3 +1,5 @@
+![olympics banner]( https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Olympic_rings_with_transparent_rims.svg/1280px-Olympic_rings_with_transparent_rims.svg.png "The Olympics!")
+
 # The Winter Olympics
 
 ### Data Visualization Project
